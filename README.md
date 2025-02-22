@@ -48,7 +48,7 @@ For N = 3 disks, the solution involves the following moves:
 
 Recursive solution: 
 Move the top n−1 disks from the starting rod to the auxiliary rod, as a temporary holding area.
-Move the remaining disk (the bigges) directly to the destination rod.
+Move the remaining disk (the biggest) directly to the destination rod.
 Then move n-1 disks from the auxiliary rod to the destination rod
 ![Diagram](https://github.com/user-attachments/assets/58581a9f-a6fd-458f-b99f-242dcd47a920)
 
